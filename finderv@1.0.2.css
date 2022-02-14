@@ -1,0 +1,16 @@
+.search {
+    background-color: #e55b73 !important;
+    border: 1px solid #e55b73 !important;
+}
+
+.panel-footer {
+    display: none !important;
+}
+
+.nav > li >a {
+    color: #e55b73 !important;
+}
+
+.pagination > li >a, .pagination > li > span {
+   color: #e55b73 !important;
+}
