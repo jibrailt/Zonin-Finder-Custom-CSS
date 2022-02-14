@@ -1,3 +1,7 @@
 .search {
-    background-color: red !important;
+    background-color: #e55b73 !important;
+}
+
+panel-footer {
+    display: none !important;
 }
