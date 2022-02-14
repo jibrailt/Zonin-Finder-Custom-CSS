@@ -1,0 +1,29 @@
+.search {
+    background-color: #e55b73 !important;
+    border: 1px solid #e55b73 !important;
+}
+
+.panel-footer {
+    display: none !important;
+}
+
+.nav > li >a {
+    color: #443c3e !important;
+}
+
+.pagination > li >a, .pagination > li > span {
+   color: #443c3e !important;
+}
+
+.panel-primary>.panel-heading {
+    background-color: #25937c !important;
+    border-color: #25937c !important;
+}
+
+.panel-primary {
+    border-color: #25937c !important;
+}
+
+.label-default {
+    background-color: #e55b73 !important;
+}
